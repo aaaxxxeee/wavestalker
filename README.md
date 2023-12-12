@@ -1,4 +1,4 @@
-![titlecardwavestalker](https://github.com/aaaxxxeee/wavestalker/assets/90225612/14d61400-f1a2-4c7b-a1c4-f93cbd24e14f)
+![titlecardwavestalker.png]
 
 Dependances : 
 
