@@ -7,4 +7,4 @@ Il est possible de remplacer l'input audio sur le mac par un fichier audio, afin
 
 /pc : Normalement, tout les fichiers chargeront automatiquement, il est possible que la carte ne charche pas du premier cout, un bouton reboot recharge la carte dans le container project.
 
-![wavestalkerbiblio](wavestalkerbiblio.png)
+![wavestalkerbiblio](pc/wavestalkerbiblio.png)
