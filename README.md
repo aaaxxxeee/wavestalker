@@ -1,4 +1,4 @@
-![titlecardwavestalker.png](/repository/titlecardwavestalker.png?raw=true)
+![titlecardwavestalker.png](/wavestalker/titlecardwavestalker.png?raw=true)
 
 Dependances : 
 
